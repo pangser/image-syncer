@@ -5,6 +5,7 @@ auth:
 images:
   k8s.gcr.io/ingress-nginx/controller: pangser/controller
   k8s.gcr.io/ingress-nginx/kube-webhook-certgen: pangser/kube-webhook-certgen
+  k8s.gcr.io/metrics-server/metrics-server: pangser/metrics-server
   
   
   
